@@ -137,7 +137,7 @@ password: 1234
 
 ## 👩‍💻 Author
 
-**Jyothi Gadela**
+**Nirmala jyothi Gadela**
 Aspiring Data Analyst / Python Developer
 
 ---
